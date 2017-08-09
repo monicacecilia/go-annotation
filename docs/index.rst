@@ -5,7 +5,6 @@ This is a test repository with GOC Annotation Documentation.
 
 This is not an official document of the GOC.
 
-Contents:
 
 .. toctree::
    :maxdepth: 2
