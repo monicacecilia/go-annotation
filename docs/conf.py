@@ -37,7 +37,6 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.napoleon', # http://www.sphinx-doc.org/en/stable/ext/napoleon.html
     'sphinx.ext.todo',
-    'alabaster',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
