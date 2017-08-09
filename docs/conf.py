@@ -32,9 +32,12 @@ sys.path.insert(0, os.path.abspath('..'))
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-'markdowntransform',
-'sphinx.ext.autodoc',
-'alabaster',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.viewcode',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.napoleon', # http://www.sphinx-doc.org/en/stable/ext/napoleon.html
+    'sphinx.ext.todo',
+    'alabaster',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
