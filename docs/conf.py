@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# ontobio documentation build configuration file, created by
-# sphinx-quickstart on Sat May 13 13:27:44 2017.
+# go-ontology documentation build configuration file, created by
+# MMT based on sphinx-quickstart file from ontobio August 9, 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -55,7 +55,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'go-annotation'
-copyright = '2017, the authors'
+copyright = '2017, The authors'
 author = 'The Gene Ontology Consortium Annotation Team'
 
 # The version info for the project you're documenting, acts as replacement for
